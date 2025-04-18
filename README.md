@@ -22,6 +22,10 @@ Contributions, issues and feature requests are welcome. Feel free to check [issu
 
 This project is made possible thanks to the APIs provided by Consumet and Inshorts. The Consumet API is used to fetch news from AnimeNewsNetwork, and the Inshorts API is used to fetch and search news from Inshorts. Additionally huge thanks to ChatGPT for assistance.
 
+## License
+
+MIT licensed. See the [LICENSE]() file for full details.
+
 ## Author
 
 Built with ❤️ by [Sachin Prajapati.]
