@@ -24,7 +24,7 @@ This project is made possible thanks to the APIs provided by Consumet and Inshor
 
 ## License
 
-MIT licensed. See the [LICENSE]() file for full details.
+MIT licensed. See the [LICENSE](https://github.com/Sachinp101/BlinkFeed-Application/tree/main?tab=MIT-1-ov-file) file for full details.
 
 ## Author
 
