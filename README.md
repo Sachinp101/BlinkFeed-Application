@@ -28,4 +28,4 @@ MIT licensed. See the [LICENSE](https://github.com/Sachinp101/BlinkFeed-Applicat
 
 ## Author
 
-Built with ❤️ by [Sachin Prajapati.]
+Built with ❤️ by [Sachin Prajapati](https://github.com/Sachinp101)
