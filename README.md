@@ -16,7 +16,7 @@ Alternatively, you can host it on any static file server. The application will b
 
 ## Contribution
 
-Contributions, issues and feature requests are welcome. Feel free to check [issues page](https://github.com/OshekharO/NewsFeedSwitcher/issues) if you want to contribute.
+Contributions, issues and feature requests are welcome. Feel free to check [issues page](https://github.com/Sachinp101/BlinkFeed-Application/edit/main) if you want to contribute.
 
 ## Credits
 
