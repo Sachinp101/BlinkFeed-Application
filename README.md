@@ -1,4 +1,4 @@
-# NewsFeedSwitcher
+# BlinkFeed
 
 NewsFeedSwitcher is a simple web-based application that provides the user with a feed of news articles from two different sources: AnimeNewsNetwork (via Consumet API) and Inshorts. Users can switch between these two sources with a simple click. Moreover, when Inshorts is selected, users are able to search for news articles by keywords.
 
